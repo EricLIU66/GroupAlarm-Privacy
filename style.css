@@ -8,7 +8,7 @@ header { background: linear-gradient(135deg, #152340, #23477c); color: white; pa
 header a { color: white; }
 .topbar { display: flex; align-items: flex-start; justify-content: space-between; gap: 1rem; }
 .brand { display: inline-flex; align-items: center; gap: .65rem; font-weight: 700; letter-spacing: .01em; text-decoration: none; }
-.mark { display: grid; place-items: center; width: 2rem; height: 2rem; border-radius: .65rem; background: #ffad66; color: #172340; font-size: 1.25rem; }
+.app-icon { display: block; width: 2rem; height: 2rem; border-radius: .65rem; }
 .language { position: relative; z-index: 1; }
 .language summary { list-style: none; cursor: pointer; border: 1px solid #a4b8d5; border-radius: 99px; padding: .3rem .75rem; white-space: nowrap; }
 .language summary::-webkit-details-marker { display: none; }
